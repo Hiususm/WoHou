@@ -1,0 +1,10 @@
+date,started,ended,activity,category,diff,weeksum,weeksum_total
+2023-09-21,11:57:00,14:00:00,Something,RA,0 days 02:03:00,0 days 02:03:00,1 days 04:32:00
+2023-10-21,06:19:00,11:00:00,Something,TA,0 days 04:41:00,0 days 04:41:00,1 days 09:13:00
+2023-11-21,08:10:00,17:00:00,Something,TA,0 days 08:50:00,0 days 08:50:00,1 days 18:03:00
+2023-12-21,09:38:00,16:00:00,Something,AD,0 days 06:22:00,0 days 06:22:00,2 days 00:25:00
+2023-12-25,10:54:00,14:00:00,Something,TA,0 days 03:06:00,0 days 03:06:00,2 days 03:31:00
+2024-01-21,07:23:00,23:00:00,Something,TS,0 days 15:37:00,0 days 15:37:00,0 days 15:37:00
+2024-01-22,08:37:00,13:00:00,Something,TA,0 days 04:23:00,0 days 09:15:00,0 days 20:00:00
+2024-01-23,08:08:00,13:00:00,Something,AD,0 days 04:52:00,0 days 09:15:00,1 days 00:52:00
+2024-01-24,07:23:00,23:00:00,Something,PR,0 days 15:37:00,,

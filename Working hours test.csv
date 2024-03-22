@@ -1,0 +1,18 @@
+Format: (YYYYMMDD), (HH-MM), (HH-MM), (str), (str) one of: ["TA", "AD", "RA", "TS", "PR"]
+date,start,end,activity,category
+20230621,08-05,10-00,Something,TA
+20230621,10-17,15-00,Something,AD
+20230623,07-49,12-00,Something,AD
+20230626,09-33,16-00,Something,TA
+20230715,10-22,13-00,Something,RA
+20230716,08-00,12-00,Something,PR
+20230801,07-25,14-00,Something,TS
+20230921,11-57,14-00,Something,RA
+20231021,06-19,11-00,Something,TA
+20231121,08-10,17-00,Something,TA
+20231221,09-38,16-00,Something,AD
+20231225,10-54,14-00,Something,TA
+20240121,07-23,23-00,Something,TS
+20240122,08-37,13-00,Something,TA
+20240123,08-08,13-00,Something,AD
+20240124,07-23,23-00,Something,PR
